@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14c4d4d3bbab1454fb9fd90851978a85, type: 3}
+  m_Name: FighterClassData
+  m_EditorClassIdentifier: 
+  classType: 0
+  HPBase: 100
+  MPBase: 0
+  ATKBase: 5
+  DEFBase: 6
+  MAGBase: 7
+  SPDBase: 18
+  LCKBase: 9
+  availableWeaponLists:
+  - {fileID: 11400000, guid: 7d4f976caccc84c4cbfd82044c8a9155, type: 2}
+  - {fileID: 11400000, guid: 358f881f73c73ae4d9288089248197fe, type: 2}
+  - {fileID: 11400000, guid: f58507ad5b892534a91ec59712316372, type: 2}

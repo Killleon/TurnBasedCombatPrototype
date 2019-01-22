@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b182666a32156cf42a2fa1f81e586054, type: 3}
+  m_Name: SkillData_MagicAbilityList
+  m_EditorClassIdentifier: 
+  availableSkills:
+  - skillName: Fireball
+    skillIcon: {fileID: 0}
+    skillType: 1
+    damageType: 4
+    targetType: 0
+    animationType: 1
+    animationTime: 0
+    power: 20
+    cost: 0
+    isPassive: 0
+    isBuiltIn: 0
+    isUnique: 0
+    animation: {fileID: 0}
+  - skillName: Hydro
+    skillIcon: {fileID: 0}
+    skillType: 1
+    damageType: 5
+    targetType: 0
+    animationType: 0
+    animationTime: 0
+    power: 40
+    cost: 0
+    isPassive: 0
+    isBuiltIn: 0
+    isUnique: 0
+    animation: {fileID: 0}
+  - skillName: Shock
+    skillIcon: {fileID: 0}
+    skillType: 1
+    damageType: 7
+    targetType: 0
+    animationType: 0
+    animationTime: 0
+    power: 50
+    cost: 0
+    isPassive: 0
+    isBuiltIn: 0
+    isUnique: 0
+    animation: {fileID: 0}
